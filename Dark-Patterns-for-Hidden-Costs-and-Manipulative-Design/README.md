@@ -1,0 +1,2 @@
+# Dark-Patterns-for-Hidden-Costs-and-Manipulative-Design-Patterns
+Designed and implemented a Chrome extension to detect dark patterns related to hidden costs and manipulative UI designs on e-commerce platforms. Combined web scraping (BeautifulSoup, Selenium) with machine learning models trained to classify deceptive patterns in real time. Enabled automatic flagging and visualization of manipulative patterns
